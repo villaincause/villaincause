@@ -1,6 +1,6 @@
 # Nahidul Islam Prince
 
-Computer Science and Engineering student at Ahsanullah University of Science and Technology (AUST) and Software Developer based in Dhaka, Bangladesh.
+Computer Science and Engineering student at University of Scholars and Software Developer based in Dhaka, Bangladesh.
 
 I build full-stack web applications, computer vision and machine learning systems, games, and IoT prototypes. I focus on writing clear, maintainable code and solving real-world engineering problems.
 
